@@ -15,7 +15,7 @@
 **WangLab Bioinfo Resource**
 
 - [Bioinformatics](#Bioinformatics)
-  - [Basic & comprehensive](#Basic\_&_comprehensive)
+  - [Basic\_and_comprehensive](#Basic\_and_comprehensive)
   - [RNA-Seq](#RNA-Seq)
 
 
@@ -28,7 +28,7 @@
 
 ## Bioinformatics
 
-### Basic\_&_comprehensive
+### Basic\_and_comprehensive
 
 **手册**
 
