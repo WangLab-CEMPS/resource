@@ -1,4 +1,4 @@
-# resource
+# WangLab Bioinfo Resource
 
 **写在前面的一些话：**
 
@@ -12,10 +12,10 @@
 
 ## Table of contents
 
-**WangLab Bioinfo resource**
+**WangLab Bioinfo Resource**
 
 - [Bioinformatics](#Bioinformatics)
-  - [Basic & comprehensive](#Basic & comprehensive)
+  - [Basic & comprehensive](#Basic\_&_comprehensive)
   - [RNA-Seq](#RNA-Seq)
 
 
@@ -28,7 +28,7 @@
 
 ## Bioinformatics
 
-### Basic & comprehensive
+### Basic\_&_comprehensive
 
 **手册**
 
@@ -39,6 +39,12 @@
 **课程**
 
 - [In-depth-NGS-Data-Analysis-Course](https://github.com/hbctraining/In-depth-NGS-Data-Analysis-Course)   哈佛的生信课程，包括了基础Linux、R操作、RNA-Seq、ChIP-Seq以及Variant calling
+
+
+
+**书籍**
+
+- Bioinformatics Data Skills 作者：Vince Buffalo
 
 
 
